@@ -1,16 +1,22 @@
+.navbar {
+  background-color: gold;
+}
 .jumbotron {
   padding-top: 5rem;
   background-color: floralwhite;
 }
-
 #projects {
   background-color: floralwhite;
 }
-
 footer {
   background-color: floralwhite;
 }
-
 section {
   padding-top: 5rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
 }
